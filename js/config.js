@@ -144,7 +144,7 @@ var l_messages = [
         "No foundation staff should assist in allowing Class D or SCPs to escape!",
         "Prisoners from across the world who have agreed to be sent to the foundation to be used as test subjects, in exchange for a reduced sentence. These personnel are treated as expendable by foundation staff and are regularly used to feed, test, and clean SCPs and their contaminants. They are not aware of what the foundation does, nor do they know of what horrors lie ahead of them. Furthermore, Class D can choose to cooperate or attempt to escape the facility. Players start out as this class!", 
         "No spamming – Examples of spam include stretching words or numbers to Contain more characters than necessary!",
-        "Animatronics can KOS you from 12:00 am to 5:00 am in-game time. - They are allowed to kill you at this time since it is after closing if you are in the Restaurant!",
+        "Do not post another member's personal information Not without his or her permission!",
         "Security Guard/Police Rules & Guidelines, This class cannot raid This class can own two-handed guns This class can own printers!",
         "Don't be a dick. Being this 'Edgy cool teenager' Won't get you far on this server. You will be banned. Toxicity is not Tolerated!",
         "Animatronics can KOS you from 12:00 am to 5:00 am in-game time. - They are allowed to kill you at this time since it is after closing if you are in the restaurant!",
@@ -160,7 +160,7 @@ var l_messages = [
         "Start raids within 30 seconds or more If adverting the raid. You cannot advert raid and then execute the raid 5 minutes later!",
         "Parties may advert PARTY then the action they are making ie( RAID, MUG, KIDNAP, ETC ) letting all party members participate in that action together. Anyone involved is Placed under cooldown for said action!",
         "Harassment or any type of abuse isn't tolerated here, this includes verbal abuse, Biased critique, and other types of abuse/harassment!",
-        "Animatronics cannot exit the restaurant They cannot chase players outside the restaurant, but they can do /me grabs child before they leave the restaurant!",
+        "Stick to English Avoid extended conversations that only you and your friends can understand!",
         "Animatronics can KOS From 12:00 am to 5:00 am in-game time. - They are allowed to kill you at this time since it is after closing if you are in the Restaurant!",
         "Trapping of players in their base and or constructions Hitman may grant custom 10 second drop warnings to those carrying their hits!",
         "You should also Noted that, The majority of an account's activity be nothing more than spam, advertising, or some other form of disruptive behavior, admins reserve the right to give an infinite ban without warning as the account is clearly only here to be Disruptive!",
@@ -173,7 +173,7 @@ var l_messages = [
         "If you threaten A DDoS attack on this server - This will result in a direct Permanant ban, jokeing or Not!",
         "If you insist on arguing about the age of the characters, you will be banned!",
         "The Medical Bay should only be placed in lockdown if a Senior Medic+, ACM, or Site Administration authorizes it. No other jobs may lock it down (Including D-Class/CI). It may be locked down for D-Class breaching into LCZ, CI in the facility, outbreak of a disease, or any other reason seen fit. If trapped inside, D-Class/CI may crack it open!",
-        "NLR any objections? (You may not demote players while staff are online, this does not apply to roleplay demotions Eg: Mayor demoting police officer for corruption!"
+        "Do not post or stream NSFW content No overly extreme/offensive material or language is to be posted in other channels either!"
 
 ];
 
